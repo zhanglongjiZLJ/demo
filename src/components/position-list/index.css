@@ -46,8 +46,18 @@
     padding: 14px 20px;
 } 
 .position-list .name{
+    width: 50%;
     color: #3c99d8;
     cursor: pointer;
+}
+.position-list .name,
+.position-list .city{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.position-list .city{
+    width: 20%;
 }
 .position-list .city,
 .position-list .time{

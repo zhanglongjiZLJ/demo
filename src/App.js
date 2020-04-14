@@ -12,57 +12,57 @@ class App extends Component {
       },
       position_list: [
         {
-          position: '阿里',
+          position: '阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里',
           city: '杭州',
-          time: '9分钟前'
+          time: '1分钟前'
+        }, {
+          position: '阿里阿里阿里阿里阿里阿里阿里阿',
+          city: '杭州',
+          time: '2分钟前'
+        }, {
+          position: '阿里阿里阿里阿里阿里阿里阿里阿',
+          city: '杭州',
+          time: '3分钟前'
         }, {
           position: '阿里',
           city: '杭州',
-          time: '9分钟前'
+          time: '4分钟前'
         }, {
           position: '阿里',
           city: '杭州',
-          time: '9分钟前'
+          time: '5分钟前'
         }, {
           position: '阿里',
           city: '杭州',
-          time: '9分钟前'
+          time: '6分钟前'
         }, {
           position: '阿里',
           city: '杭州',
-          time: '9分钟前'
+          time: '7分钟前'
         }, {
           position: '阿里',
           city: '杭州',
-          time: '9分钟前'
+          time: '8分钟前'
         }, {
-          position: '阿里',
+          position: '阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里',
           city: '杭州',
           time: '9分钟前'
         }, {
-          position: '阿里',
+          position: '阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里阿里',
           city: '杭州',
-          time: '9分钟前'
+          time: '10分钟前'
         }, {
           position: '阿里',
           city: '杭州',
-          time: '9分钟前'
+          time: '11分钟前'
         }, {
           position: '阿里',
           city: '杭州',
-          time: '9分钟前'
+          time: '12分钟前'
         }, {
           position: '阿里',
           city: '杭州',
-          time: '9分钟前'
-        }, {
-          position: '阿里',
-          city: '杭州',
-          time: '9分钟前'
-        }, {
-          position: '阿里',
-          city: '杭州',
-          time: '9分钟前'
+          time: '13分钟前'
         }
       ]
     }
