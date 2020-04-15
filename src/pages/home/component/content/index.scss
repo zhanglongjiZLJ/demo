@@ -1,0 +1,28 @@
+.container {
+    width: 100%;
+    min-height: 395px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .card-container {
+        margin-left: 25px;
+        .card-pic{
+            width: 305px;
+            display: block;
+            height: 140px;
+            cursor: pointer;
+            background-color: #fff;
+            box-shadow: 0 0 15px 0 rgba(31, 56, 88, 0.08);
+            border-radius: 3px;
+            text-align: center;
+            line-height: 140px;
+            img{
+                width: 179px;
+                vertical-align: middle;
+            }
+        }
+        .pic-1{
+            margin-bottom: 20px;
+        }
+    }
+}
