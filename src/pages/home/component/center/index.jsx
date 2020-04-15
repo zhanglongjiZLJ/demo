@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Carousel, Input, Button } from 'antd';
+import { Input, Button } from 'antd';
 import './index.scss';
 import { hotPosition } from '../../../../util/data';
 
@@ -27,12 +27,7 @@ class Center extends Component {
         const { search } = this.state;
         return (
             <div className="center">
-                <Carousel >
-                    <div className="bg">
-                        <img src="https://img.alicdn.com/tfs/TB14TEEm7CWBuNjy0FaXXXUlXXa-1440-478.png" alt="" className="img-sty" />
-                        <div className="mask"></div>
-                    </div>
-                </Carousel>
+                <div className="bg"></div>
                 <div className="index-mid-box">
                     <p className="text">If not now, when?</p>
                     <p className="text">If not me, who?</p>

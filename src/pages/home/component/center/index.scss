@@ -1,13 +1,13 @@
 .center {
     height: 478px;
-    p {
-        margin: initial;
-        line-height: 1.2;
-    }
     .bg {
         position: relative;
         height: 478px;
         overflow: hidden;
+        background-image: url('https://img.alicdn.com/tfs/TB14TEEm7CWBuNjy0FaXXXUlXXa-1440-478.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
         .mask{
             position: absolute;
             top: 0;
@@ -36,6 +36,7 @@
             color: #fff;
             font-family: Rufina-Bold;
             line-height: 56px;
+            margin: 0;
         }
         .last-text{
             font-size: 34px;
